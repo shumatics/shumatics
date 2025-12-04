@@ -10,6 +10,8 @@ I'm a Senior Full-Stack Engineer based in beautiful Mauritius, driven by a passi
 
 I'm open to collaboration, mentorship, and product-focused engineering opportunities. Let's connect to discuss interesting engineering challenges, potential partnerships, or open-source contributions!
 
+[Let's talk and expand our mind.](mailto:ashfaaq.damree@shumatics.com)
+
 ---
 
 ## Tech Stack
