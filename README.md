@@ -45,9 +45,3 @@ Here are some of the technologies I'm proficient with:
 
 
 ---
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumatics&layout=compact&theme=vision-friendly-dark)
-
-![Ashfaaq Damree's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumatics&show_icons=true&theme=vision-friendly-dark)
